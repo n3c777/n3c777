@@ -1,10 +1,7 @@
-- 👋Hello My Name is Nicholas Chamberlain
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently web development
-- 💞️ I’m looking to collaborate any projects if they interest my
-- 📫 How to reach me:
--  email: n3c777@gmail.com
--  linkedIn: https://www.linkedin.com/in/nicholas-chamberlain-7b4880260/
+- Hello! My Name is Nicholas Chamberlain
+- I’m interested software engineering and web development
+- email: n3c777@gmail.com
+- linkedIn: https://www.linkedin.com/in/nicholas-chamberlain-7b4880260/
 - 
 
 <!---
