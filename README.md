@@ -3,8 +3,8 @@
 - 🌱 I’m currently web development
 - 💞️ I’m looking to collaborate any projects if they interest my
 - 📫 How to reach me:
--  n3c777@gmail.com
--  https://www.linkedin.com/in/nicholas-chamberlain-7b4880260/
+-  email: n3c777@gmail.com
+-  linked in: https://www.linkedin.com/in/nicholas-chamberlain-7b4880260/
 - 
 
 <!---
