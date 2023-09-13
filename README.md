@@ -1,5 +1,5 @@
 - Hello! My Name is Nicholas Chamberlain
-- I’m interested software engineering and web development
+- I’m interested software engineering
 - email: n3c777@gmail.com
 
 
