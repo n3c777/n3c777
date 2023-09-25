@@ -1,5 +1,4 @@
-- Hello! My Name is Nicholas Chamberlain
-- I’m interested software engineering
+- Hello! My Name is Nicholas.
 - email: n3c777@gmail.com
 
 
