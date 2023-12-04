@@ -1,5 +1,3 @@
-- Hello! My Name is Nicholas.
-- email: n3c777@gmail.com
 
 
 
